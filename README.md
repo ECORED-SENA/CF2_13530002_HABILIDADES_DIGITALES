@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF2_13530002_HABILIDADES_DIGITALES/#/](https://ecored-sena.github.io/CF2_13530002_HABILIDADES_DIGITALES/#/)
 
 #
 
