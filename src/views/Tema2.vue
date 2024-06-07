@@ -168,7 +168,7 @@ export default {
   height: 100%
   top: -30px
   background: url(../assets/curso/tema2/1.png)
-  background-size: cover
+  background-size: 100% 100%
   background-position: center bottom
 .cont_slyder_1
   background: url(../assets/curso/tema2/5.png)
@@ -196,12 +196,12 @@ export default {
   position: absolute
   width: 125%
   left: -15%
-  height: 80%
+  height: 90%
   bottom: 0
   background: url(../assets/curso/tema2/14.png)
-  background-size: cover
+  background-size: 100% 100%
   background-position: bottom
 @media screen and (max-width: 992px)
-  .cont_slyder_1
+  .cont_slyder_1, .cont_2_1:before,.cont_2_2:before,.cont_2_3:before
     background-size: cover
 </style>
