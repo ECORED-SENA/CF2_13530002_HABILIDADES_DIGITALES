@@ -29,7 +29,7 @@
         .col-lg-9(data-aos="fade-left")
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
             .row.col-xl-11.m-auto(titulo="Análisis")
-              p La primera fase es realizada por programas llamados Spider, Robot o #[em Crawler]. Escanean la web de forma metódica y automatizada. Sus resultados crean el índice general de Internet.
+              p La primera fase es realizada por programas llamados #[em Spider], Robot o #[em Crawler]. Escanean la web de forma metódica y automatizada. Sus resultados crean el índice general de Internet.
             .row.col-xl-11.m-auto(titulo="Catalogación")
               p Las páginas seleccionadas por los rastreadores se guardan, y se analiza la parte textual, que se toma como base para proporcionar la respuesta a los usuarios. Este último paso requiere la capacidad de los motores de búsqueda, para ordenar los sitios, con base en los datos por relevancia.
             .row.col-xl-11.m-auto(titulo="Respuesta")
@@ -49,7 +49,7 @@
                 figure
                   img(src="@/assets/curso/tema3/5.svg")
               .col(style="place-self:center;")
-                p.mb-0 De acuerdo con lo anterior, existen varias opciones de motores de búsqueda, y cada uno de ellas cuenta con características y opciones que permiten acceder, a la información solicitada, de manera efectiva. Elija el buscador que mejor se adapte al contenido que desea encontrar.
+                p.mb-0 De acuerdo con lo anterior, existen varias opciones de motores de búsqueda, y cada una de ellas cuenta con características y opciones que permiten acceder, a la información solicitada, de manera efectiva. Elija el buscador que mejor se adapte al contenido que desea encontrar.
         .col-lg-4(data-aos="fade-left")
           figure.m-auto.col-8.col-md-7.col-lg-12
             img(src="@/assets/curso/tema3/6.svg")
@@ -299,7 +299,7 @@
     .cont_3_4
       .row
         .col(style="place-self:center;")
-          p.mb-0 Las páginas web que encontramos alojadas en Internet, están compuestas por imágenes, texto, animaciones, videos, sonidos, entre otros formatos. Todos estos contenidos digitales son creaciones de terceras personas y están sujetos a unas condiciones o limitaciones de uso, los que son definidos, por su autor, con la licencia elegida para ser publicada posteriormente. Esta licencia en su expresión básica la conocemos como:
+          p.mb-0 Las páginas web que encontramos alojadas en Internet, están compuestas por imágenes, texto, animaciones, videos, sonidos, entre otros formatos. Todos estos contenidos digitales son creaciones de terceras personas y están sujetos a unas condiciones o limitaciones de uso, las que son definidas, por su autor, con la licencia elegida para ser publicada posteriormente. Esta licencia, en su expresión básica la conocemos como:
         .col-auto.d-none.d-md-block
           figure
             img(src="@/assets/curso/tema3/27.svg")
@@ -321,7 +321,7 @@
             figure
               img(src="@/assets/curso/tema3/29.svg")
           .col(style="place-self:center;")
-            p.mb-0 Una de las licencias derivadas de Copyleft es la conocida como Creative Commons, se utiliza en todo tipo de contenidos en internet y la podemos identificar con el símbolo CC dentro de un círculo.
+            p.mb-0 Una de las licencias derivadas de Copyleft es la conocida como #[em Creative Commons], se utiliza en todo tipo de contenidos en internet y la podemos identificar con el símbolo CC dentro de un círculo.
     
     .row.mt-4
       .col-auto.d-none.d-md-block(data-aos="fade-right")
@@ -351,7 +351,7 @@
             .col-lg-7.mb-4.mb-lg-0
               h5(style="color:#8722E2;") Paso 2
               p.mt-4 Lo segundo que se hace es presionar la opción de filtrar.
-              p En esta ventana de opciones, se elige, en la categoría de características, la opción Creative Commons.
+              p En esta ventana de opciones, se elige, en la categoría de características, la opción #[em Creative Commons].
             .col-lg-5
               figure.m-auto.col-12.col-md-9.col-lg-12
                 img(src='@/assets/curso/tema3/33.svg')

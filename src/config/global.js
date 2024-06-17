@@ -192,7 +192,7 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Líder del Ecosistema',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
@@ -207,14 +207,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Ervin Andrade',
-          cargo: 'Experto temático',
+          nombre: 'Jhonaimer Díaz Cerquera',
+          cargo: 'Experto Temático',
           centro:
-            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
+            'Centro de Desarrollo Agroempresarial y Turístico - Regional Huila',
         },
         {
-          nombre: 'Peter Emerson Pinchao Solis',
-          cargo: 'Experto temático',
+          nombre: 'Miguel Ricardo Rivera Lizcano',
+          cargo: 'Experto Temático',
           centro:
             'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
@@ -229,7 +229,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Blanca Flor Tinoco Torres',
+          nombre: 'Yerson Fabián Zárate Saavedra',
           cargo: 'Diseñador de Contenidos Digitales',
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
@@ -254,6 +254,12 @@ export default {
         {
           nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Margarita Marcela Medrano Gómez',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },

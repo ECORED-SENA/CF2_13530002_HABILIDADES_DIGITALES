@@ -89,7 +89,7 @@
                 p.text-center.fw-bold 1995
     
     p.mt-4.fw-bold(style="color:#8722E2;" data-aos="fade-right") Algunos de estos navegadores vienen instalados con el sistema operativo del computador, puesto que son herramientas esenciales para el acceso a Internet. Cada usuario puede sentirse libre de utilizar el que más le guste.
-    p(data-aos="fade-left") El siguiente video nos presenta un instructivo sobre cómo se trabaja en un navegador.
+    p(data-aos="fade-left") El siguiente video nos presenta un instructivo sobre cómo trabajar en un navegador.
 
     figure.mt-4(data-aos="zoom-in")
       .video
@@ -111,7 +111,7 @@
       figure.pt-5(data-aos="zoom-in-up")
         img(src="@/assets/curso/tema2/13.svg" alt="Esquema general del componente formativo, que enuncia las temáticas desarrolladas y destaca aspectos clave estudiados. Tema central: navegadores y buscadores. Temas integradores: Internet, navegadores y buscadores.")
     
-    p.mt-4(data-aos="fade-right") Un factor importante para conocer es que, para mantener la privacidad, por lo general los navegadores tienen formas precisas de almacenar: cookies, enlaces web y el historial, que son los datos que, para optimizar el funcionamiento de los equipos, se pueden eliminar. 
+    p.mt-4(data-aos="fade-right") Un factor importante para conocer es que, para mantener la privacidad, por lo general los navegadores tienen formas precisas de almacenar: #[em cookies], enlaces web y el historial, que son los datos que, para optimizar el funcionamiento de los equipos, se pueden eliminar. 
   
     .cont_2_3.mt-4
       .row
