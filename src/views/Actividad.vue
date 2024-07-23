@@ -9,7 +9,7 @@
             img(src="@/assets/template/arrastrar.svg", alt="Imagen decorativa")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Dispositivos y TIC
+          h2 Navegadores - Buscadores - licencias.
         p.mb-4 Validar los conocimientos relacionados con lo estudiado en el componente formativo. 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

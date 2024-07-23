@@ -65,17 +65,18 @@ export default {
           },
           {
             numero: '3.2',
-            titulo: '¿Cuáles son los buscadores más utilizados?',
+            titulo: 'Truncamientos y operadores booleanos',
             hash: 't_3_2',
           },
           {
             numero: '3.3',
-            titulo: '¿Cuáles son los buscadores más utilizados?',
+            titulo: 'Recomendaciones para la búsqueda de recursos',
             hash: 't_3_3',
           },
           {
             numero: '3.4',
-            titulo: '¿Cuáles son los buscadores más utilizados?',
+            titulo:
+              'Tipos de licencia, referencias y recomendaciones para el uso de recursos',
             hash: 't_3_4',
           },
         ],
@@ -146,7 +147,7 @@ export default {
     {
       termino: 'Android',
       significado:
-        'sistema operativo que usan teléfonos móviles usa como base Linux. ',
+        'sistema operativo que usan los teléfonos móviles y está basado en Linux.',
     },
     {
       termino: 'Raspberry',
@@ -176,7 +177,7 @@ export default {
     },
     {
       referencia:
-        'Eines, Mónica E.; Aranda, Nélida Inés y Amilivia, Luis Alberto. (2018) Las Píldoras de Contenidos. Rev. iberoam. tecnol. educ. educ. tecnol, n.21, pp.15-23. ISSN 1851-0086 ',
+        'Eines, Mónica E.; Aranda, Nélida Inés y Amilivia, Luis Alberto. (2018) Las Píldoras de Contenidos. Rev. iberoam. tecnol. educ. educ. tecnol, n.21, pp.15-23. ISSN 1851-0086.',
       link: '',
     },
     {
@@ -215,8 +216,7 @@ export default {
         {
           nombre: 'Miguel Ricardo Rivera Lizcano',
           cargo: 'Experto Temático',
-          centro:
-            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
+          centro: 'Dirección General',
         },
         {
           nombre: 'Ana Catalina Córdoba Sus',
@@ -243,6 +243,12 @@ export default {
         {
           nombre: 'Edgar Mauricio Cortés García',
           cargo: 'Actividad Didáctica',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y Productor Multimedia',
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },

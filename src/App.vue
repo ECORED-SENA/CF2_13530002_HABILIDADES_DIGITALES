@@ -93,4 +93,6 @@ export default {
 @media screen and (max-width: 992px)
   .banner-principal .tarjeta
     background-size: cover !important
+  .cont_decorativo:before
+    height: 100% !important
 </style>

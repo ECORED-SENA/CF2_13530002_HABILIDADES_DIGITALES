@@ -151,7 +151,7 @@
             img(src="@/assets/curso/tema3/15.svg" style="max-width:120px;display:inline;")
           p.mt-4.mb-0.text-center.text-white AND (Y)
           p.mb-0.text-center.text-white TEXTO1 #[strong(style="color: #00FFDF !important;") AND] TEXTO2
-          p.mb-0.text-center.text-white Quiere decir que incluya amobos términos.
+          p.mb-0.text-center.text-white Quiere decir que incluya ambos términos.
       .col-lg.mb-4.mb-lg-0.col-md-8(data-aos="zoom-in")
         .h-100.p-4.p-lg-5(style="background-color:#3A1D71;border-radius:15px;")
           figure.text-center
@@ -286,7 +286,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p #[strong Enlace web.] https://biblioteca.sena.edu.co/paginas/bases.html
+            p(style="word-wrap:break-word;") #[strong Enlace web.] https://biblioteca.sena.edu.co/paginas/bases.html
       .col-auto.d-none.d-md-block(data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema3/25.svg")

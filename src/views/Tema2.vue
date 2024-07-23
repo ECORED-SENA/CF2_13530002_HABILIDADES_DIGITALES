@@ -10,7 +10,7 @@
     .cont_2_1
       .row
         .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
-          p Internet aporta un amplio mundo de conocimiento y de entretenimiento debido a que, en 1 (un) minuto, se crean más de 600 páginas web, lo que hace que este universo sea cada vez más y más vasto. 
+          p Internet aporta un amplio mundo de conocimiento y de entretenimiento debido a que, en 1 minuto, se crean más de 600 páginas web, lo que hace que este universo sea cada vez más y más vasto. 
           p Para poder acceder a estas páginas web y ver la información que contienen, es necesario hacerse de una herramienta digital llamada navegador, que interpreta el código de la página que se visita y lo trae a la pantalla para poder navegar e interactuar.
           .p-3(style="background-color:#AEC4FA;border-radius:12px;")
             .row
@@ -107,9 +107,12 @@
         .p-4.h-100.align-content-center(style="background-color:#FFEFAF;border-radius:12px;")
           p.mb-0 El #[strong #[em https://]] es un protocolo seguro para transferir hipertexto y viene de las siglas #[strong #[em Hypertext Transfer Protocol Secure]] (en español, Protocolo Seguro de Transferencia de Hipertexto); es un sistema de organización de datos basado en la vinculación de fragmentos textuales o gráficos de estos fragmentos, y todos ellos incluyen, en mayor parte, las siguientes características:
     
-    .mt-5.cont_2_2.pb-4
+    .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-up")
+      h5 Figura 1. 
+      span Características de los navegadores
+    .cont_2_2.pb-4
       figure.pt-5(data-aos="zoom-in-up")
-        img(src="@/assets/curso/tema2/13.svg" alt="Esquema general del componente formativo, que enuncia las temáticas desarrolladas y destaca aspectos clave estudiados. Tema central: navegadores y buscadores. Temas integradores: Internet, navegadores y buscadores.")
+        img(src="@/assets/curso/tema2/13.svg" alt="Las características de los Navegadores son: Retroceder / Avanzar página Actualiza página Home o página principal Barra de búsqueda Navegación por pestañas Marcadores Gestor de descargas.")
     
     p.mt-4(data-aos="fade-right") Un factor importante para conocer es que, para mantener la privacidad, por lo general los navegadores tienen formas precisas de almacenar: #[em cookies], enlaces web y el historial, que son los datos que, para optimizar el funcionamiento de los equipos, se pueden eliminar. 
   
