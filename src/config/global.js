@@ -252,6 +252,12 @@ export default {
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
+        },
       ],
     },
     {
